@@ -1,0 +1,6 @@
+{
+  "name": "AI Japanese Speaking Tutor",
+  "description": "Interactive Japanese speaking tutor with workplace roleplay, interview simulations, Keigo assessment, and professional product analysis dashboard.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
